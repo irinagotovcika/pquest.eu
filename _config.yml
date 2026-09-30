@@ -1,0 +1,9 @@
+title: PQuest
+description: A psychological skills training method.
+lang: en
+
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
