@@ -98,6 +98,9 @@ description: A psychological skills training method.
           psychological skills training, bringing together psychological theory,
           methodological design, and digital technology.
         </p>
-    </div>
+        <a class="text-link" href="{{ '/about/' | relative_url }}">
+        About PQuest
+     </a>
+  </div>
   </div>
 </section>
