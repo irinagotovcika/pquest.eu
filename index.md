@@ -90,15 +90,14 @@ description: A psychological skills training method.
       <h2>About PQuest</h2>
 
       <p>
-        PQuest is an evolving project focused on developing evidence-informed
-        tools for psychological skills training.
-      </p>
+  PQuest is an independent project conceived and developed by Irina Gotovcika.
+</p>
 
-      <p>
-        It brings together psychological theory, methodological design, and
-        digital technology to explore how psychological skills can be practiced
-        through active, contextual experiences.
-      </p>
+<p>
+  The project explores the development of evidence-informed approaches to
+  psychological skills training, bringing together psychological theory,
+  methodological design, and digital technology.
+</p>
     </div>
   </div>
 </section>
