@@ -26,24 +26,24 @@ description: The theoretical rationale, evidence base, limitations, and referenc
 
   <main class="page-content">
     
-    <nav class="method-nav" aria-label="PQuest Method sections">
-      <a class="method-nav-link" href="{{ '/method/' | relative_url }}">
+    <nav class="section-nav" aria-label="PQuest Method sections">
+      <a class="section-nav-link" href="{{ '/method/' | relative_url }}">
         Overview
       </a>
 
-      <a class="method-nav-link" href="{{ '/method/practice/' | relative_url }}">
+      <a class="section-nav-link" href="{{ '/method/practice/' | relative_url }}">
         Practice
       </a>
 
-      <a class="method-nav-link" href="{{ '/method/principles/' | relative_url }}">
+      <a class="section-nav-link" href="{{ '/method/principles/' | relative_url }}">
         Principles
       </a>
 
-      <a class="method-nav-link" href="{{ '/method/trainings/' | relative_url }}">
+      <a class="section-nav-link" href="{{ '/method/trainings/' | relative_url }}">
         Trainings
       </a>
 
-      <a class="method-nav-link active" href="{{ '/method/evidence/' | relative_url }}">
+      <a class="section-nav-link active" href="{{ '/method/evidence/' | relative_url }}">
         Evidence
       </a>
     </nav>
