@@ -44,7 +44,7 @@ description: About PQuest and its development.
       </a>
     </nav>
 
-    <h1>About PQuest</h1>
+    <h2>About PQuest</h2>
 
     <p class="lead">
       PQuest is an independent project conceived and developed by Irina Gotovcika.
