@@ -403,3 +403,33 @@ a:focus-visible {
     font-size: 2rem;
   }
 }
+
+/* Method section navigation */
+
+.method-nav {
+  display: flex;
+  gap: 0;
+  margin: 2rem 0 2.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.method-nav-link {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+}
+
+.method-nav-link:hover {
+  color: var(--color-accent);
+}
+
+.method-nav-link.active {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-accent);
+  font-weight: 600;
+}
