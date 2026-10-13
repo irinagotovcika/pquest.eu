@@ -87,10 +87,14 @@ h1,
 h2,
 h3 {
   margin-top: 0;
-  color: var(--color-accent);
   font-weight: 600;
   line-height: 1.25;
   letter-spacing: -0.015em;
+}
+
+h1,
+h2 {
+  color: var(--color-accent);
 }
 
 h1 {
@@ -103,6 +107,7 @@ h2 {
 
 h3 {
   font-size: 1.2rem;
+  color: var(--color-text);
 }
 
 p {
