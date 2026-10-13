@@ -36,9 +36,6 @@ description: A psychological skills training method.
       and adaptation become part of the training.
     </p>
 
-    <a class="text-link" href="{{ '/method/' | relative_url }}">
-      Explore the PQuest Method 
-    </a>
   </section>
 
 </div>
