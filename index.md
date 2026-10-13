@@ -4,48 +4,45 @@ title: PQuest
 description: A psychological skills training method.
 ---
 
-<section class="section">
-  <div class="container">
-    <div class="text-container">
-      <h1>PQuest</h1>
-      <p class="lead">A psychological skills training method.</p>
+<div class="page-layout">
 
-      <p>
-        PQuest provides a framework for practicing psychological skills through
-        active, contextual experiences — where decisions, changing circumstances,
-        and adaptation become part of the training.
-      </p>
+  <aside class="side-nav" aria-label="PQuest sections">
+    <div class="side-nav-title">PQuest</div>
 
-      <a class="text-link" href="{{ '/method/' | relative_url }}">
-        Explore the PQuest Method
-      </a>
-    </div>
-  </div>
-</section>
+    <a class="side-nav-link active" href="{{ '/' | relative_url }}">
+      Overview
+    </a>
 
-<section class="section section-muted">
-  <div class="container">
-    <div class="text-container">
-      <h2>The PQuest Method</h2>
+    <a class="side-nav-link" href="{{ '/method/' | relative_url }}">
+      The PQuest Method
+    </a>
 
-      <p class="lead">
-        Psychological skills develop through practice, not information alone.
-      </p>
+    <a class="side-nav-link" href="{{ '/trainings/' | relative_url }}">
+      PQuest Trainings
+    </a>
 
-      <p>
-        The PQuest Method is designed to create active practice around a
-        psychological skill. Rather than simply presenting information or
-        prescribing a “right” response, PQuest places people in contextual
-        experiences where they engage with decisions, changing conditions,
-        and their consequences.
-      </p>
+    <a class="side-nav-link" href="{{ '/about/' | relative_url }}">
+      About PQuest
+    </a>
+  </aside>
 
-      <p>
-        The focus is not on learning a fixed rule for what to do. It is on
-        practicing how to respond when situations vary, new information emerges,
-        and different choices involve different trade-offs.
-      </p>
+  <section class="page-content">
+    <h1>PQuest</h1>
 
+    <p class="lead">A psychological skills training method.</p>
+
+    <p>
+      PQuest provides a framework for practicing psychological skills through
+      active, contextual experiences — where decisions, changing circumstances,
+      and adaptation become part of the training.
+    </p>
+
+    <a class="text-link" href="{{ '/method/' | relative_url }}">
+      Explore the PQuest Method →
+    </a>
+  </section>
+
+</div>
       <a class="text-link" href="{{ '/method/' | relative_url }}">
         Learn more about the PQuest Method
       </a>
