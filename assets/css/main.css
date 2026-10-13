@@ -306,6 +306,29 @@ a:focus-visible {
   .card {
     padding: var(--space-3);
   }
+     .page-layout {
+    grid-template-columns: 1fr;
+    padding: 2rem 1.5rem 4rem;
+    gap: 2rem;
+    min-width: 0;
+  }
+
+  .page-content {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .method-nav {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    gap: 2rem;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .method-nav-link {
+    flex: 0 0 auto;
+  }
 }
 
 
