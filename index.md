@@ -7,22 +7,21 @@ description: A psychological skills training method.
 <div class="page-layout">
 
   <aside class="side-nav" aria-label="PQuest sections">
-    <div class="side-nav-title">PQuest</div>
 
     <a class="side-nav-link active" href="{{ '/' | relative_url }}">
       Overview
     </a>
 
     <a class="side-nav-link" href="{{ '/method/' | relative_url }}">
-      The PQuest Method
+      Method
     </a>
 
     <a class="side-nav-link" href="{{ '/trainings/' | relative_url }}">
-      PQuest Trainings
+      Trainings
     </a>
 
     <a class="side-nav-link" href="{{ '/about/' | relative_url }}">
-      About PQuest
+      About
     </a>
   </aside>
 
