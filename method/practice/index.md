@@ -26,9 +26,6 @@ description: Practice before it matters — active, contextual practice within t
 
   <main class="page-content">
 
-    <h1>The PQuest Method</h1>
-    <p class="lead">A psychological skills training method.</p>
-
     <nav class="method-nav" aria-label="PQuest Method sections">
       <a class="method-nav-link" href="{{ '/method/' | relative_url }}">
         Overview
