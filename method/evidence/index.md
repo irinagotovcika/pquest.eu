@@ -62,7 +62,7 @@ description: The theoretical rationale, evidence base, limitations, and referenc
       Its development draws on psychological research relevant to learning,
       active practice, feedback, contextual variation, and the transfer of
       training. These principles inform the rationale behind the method and
-      the way its Programme Theory is constructed.<sup>[3–7]</sup>
+      the way its Programme Theory is constructed.<sup><a href="#ref-3">[3]</a>–<a href="#ref-7">[7]</a></sup>
     </p>
 
     <p>
@@ -90,7 +90,7 @@ description: The theoretical rationale, evidence base, limitations, and referenc
       The specific effects of PQuest Trainings require empirical investigation.
       In particular, improvements observed within a training environment should
       not automatically be assumed to transfer to real-world behaviour or to
-      broader psychological outcomes.<sup>[6,7]</sup>
+      broader psychological outcomes.<sup><a href="#ref-6">[6]</a>,<a href="#ref-7">[7]</a></sup>
     </p>
 
     <p>
