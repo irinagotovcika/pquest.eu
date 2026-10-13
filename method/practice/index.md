@@ -61,7 +61,7 @@ description: Practice before it matters — active, contextual practice within t
     <p>
       In fields such as healthcare and aviation, simulation- and scenario-based
       training create opportunities to practice skills and decisions in realistic
-      contexts before they are needed in real-world situations.<sup>[1,2]</sup>
+      contexts before they are needed in real-world situations.<sup><a href="{{ '/method/evidence/#ref-1' | relative_url }}">[1]</a>,<a href="{{ '/method/evidence/#ref-2' | relative_url }}">[2]</a></sup>
     </p>
 
     <p>
