@@ -62,7 +62,7 @@ description: The principles that shape psychological skills practice within the 
     <p>
       Skills are practiced through active engagement rather than passive
       exposure to information. The learner takes part in the experience and
-      makes meaningful decisions.<sup>[3]</sup>
+      makes meaningful decisions.<sup><a href="{{ '/method/evidence/#ref-3' | relative_url }}">[3]</a></sup>
     </p>
 
     <h3>Context matters</h3>
@@ -76,7 +76,7 @@ description: The principles that shape psychological skills practice within the 
     <p>
       Situations can change. New information can matter. PQuest encourages
       practice in reconsidering a situation and adapting a response rather than
-      searching for one universally “correct” answer.<sup>[4]</sup>
+      searching for one universally “correct” answer.<sup><a href="{{ '/method/evidence/#ref-4' | relative_url }}">[4]</a></sup>
     </p>
 
     <h3>Learning through consequences</h3>
@@ -91,7 +91,7 @@ description: The principles that shape psychological skills practice within the 
     <p>
       Feedback is intended to support reflection on situations, decisions, and
       consequences — not to label the person or reduce the experience to simply
-      being “right” or “wrong.”<sup>[5]</sup>
+      being “right” or “wrong.”<sup><a href="{{ '/method/evidence/#ref-5' | relative_url }}">[5]</a></sup>
     </p>
 
     <p>
