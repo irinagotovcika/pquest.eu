@@ -26,9 +26,6 @@ description: The PQuest Method provides a framework for active, contextual pract
 
   <main class="page-content">
 
-    <h1>The PQuest Method</h1>
-    <p class="lead">A psychological skills training method.</p>
-
     <nav class="method-nav" aria-label="PQuest Method sections">
       <a class="method-nav-link active" href="{{ '/method/' | relative_url }}">
         Overview
@@ -50,6 +47,8 @@ description: The PQuest Method provides a framework for active, contextual pract
         Evidence
       </a>
     </nav>
+    
+     <h2>PQuest: A psychological skills training method</h2>
 
     <p>
       Psychological skills are not only something we can understand — they are
