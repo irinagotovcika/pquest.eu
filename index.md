@@ -37,7 +37,7 @@ description: A psychological skills training method.
     </p>
 
     <a class="text-link" href="{{ '/method/' | relative_url }}">
-      Explore the PQuest Method →
+      Explore the PQuest Method 
     </a>
   </section>
 
